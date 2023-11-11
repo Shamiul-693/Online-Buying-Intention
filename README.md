@@ -34,16 +34,17 @@ visitor type vs exit rates wrt revenue:
 ![image](https://github.com/Shamiul-693/Online-Buying-Intention/assets/77440860/29ba522b-a790-4b8a-8723-4af0da7c4d5a)
 
 
-Statistical Tests:
-   *chi-squared test
-   *Shapiro-Wilk test
-   *Mann-Whitney rank test
+
 ![image](https://github.com/Shamiul-693/Online-Buying-Intention/assets/77440860/3b34ac80-b241-4ed4-a925-3aaec4028e07)
 
 Clustering Analysis:
 ![image](https://github.com/Shamiul-693/Online-Buying-Intention/assets/77440860/ba0c4700-08de-48dd-9e06-01b61c354570)
 
-Machine Learning Modeling and Evaluation:
+
+
+
+#Machine Learning Modeling and Evaluation:
+
 ![image](https://github.com/Shamiul-693/Online-Buying-Intention/assets/77440860/d366d0af-f05a-4e58-a34c-914788f5ee6f)
 
 ![all](https://github.com/Shamiul-693/Online-Buying-Intention/assets/77440860/91422524-2b6c-4ad7-b179-fa59b7fb7fb1)
